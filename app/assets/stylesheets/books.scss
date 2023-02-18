@@ -2,6 +2,21 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+
 .book{
   margin:33px;
+}
+
+th{
+  padding-bottom:7px;
+}
+
+td{
+  padding-bottom:7px;
+  padding-right:10px;
 }

@@ -2,6 +2,11 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
 .home{
   margin:33px;
 }
@@ -9,5 +14,5 @@
 p{
   margin:33px;
   font-size:13px;
-  
+
 }
